@@ -8,6 +8,8 @@
  * http://ReactiveRaven.github.com/jqBootstrapValidation/
  */
 
+//adding new adding new 1
+
 (function( $ ){
 
 	var createdElements = [];
