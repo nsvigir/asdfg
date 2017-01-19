@@ -1,5 +1,7 @@
 // Agency Theme JavaScript
 
+//addition 1 
+
 (function($) {
     "use strict"; // Start of use strict
 

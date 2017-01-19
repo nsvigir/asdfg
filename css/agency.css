@@ -1,16 +1,34 @@
+
+/* online new 1 */
+
+/* 12312111231231 */
+/* second entry on develop */
+/* third entry on develop */
+/* fouth entry on develop */
+
 /* direct enty 1 */
+
 
 /*!
  * Start Bootstrap - Agency v3.3.7+1 (http://startbootstrap.com/template-overviews/agency)
  * Copyright 2013-2016 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
+
+/*abbabab abbaba bbb */
+
+/* second entry */
+
+/* third entry */
+/* third entry - additional */
+
+
 body {
   overflow-x: hidden;
   font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .text-muted {
-  color: #777777;
+  color: #000;
 }
 .text-primary {
   color: #fed136;
@@ -201,7 +219,7 @@ fieldset[disabled] .btn-xl.active {
 }
 @media (min-width: 768px) {
   .navbar-custom {
-    background-color: 222222;
+    background-color: #222222;
     padding: 25px 0;
     -webkit-transition: padding 0.3s;
     -moz-transition: padding 0.3s;
